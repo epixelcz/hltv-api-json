@@ -36,8 +36,8 @@ __/player/:playerID(*) --> HLTV.getPlayer({id: 6137})__
 
 ---
 
-/player/stats/:from(*)/:to(*) --> HLTV.getPlayerRanking({startDate: '2018-07-01', endDate: '2018-10-01'})
+__/player/stats/:from(*)/:to(*) --> HLTV.getPlayerRanking({startDate: '2018-07-01', endDate: '2018-10-01'})__
 
 ---
 
-/event/:event(*) --> HLTV.getEvent({id: 3389})
+__/event/:event(*) --> HLTV.getEvent({id: 3389})__
