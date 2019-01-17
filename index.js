@@ -168,4 +168,4 @@ app.get('/event/:event(*)', (req, res) => {
 	}
 });
 
-app.listen(3331, () => console.log('running suss...'))
+app.listen(8080, () => console.log('running suss...'))
