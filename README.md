@@ -4,7 +4,7 @@ https://github.com/gigobyte/HLTV
 ## URLs
 every link corresponding with function
 
-/match -> HLTV.getMatches()
+__/match -> HLTV.getMatches()__
 
 ---
 
