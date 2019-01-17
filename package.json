@@ -1,0 +1,25 @@
+{
+	"name": "hltv-api-json",
+	"version": "0.0.1",
+	"description": "",
+	"dependencies": {
+		"express": "^4.13.0",
+		"hltv": "^2.1.0"
+	},
+	"engine": {
+		"node": "*",
+		"npm": "*"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/epixelcz/hltv-api-json.git"
+	},
+	"bugs": {
+		"url": "https://github.com/epixelcz/hltv-api-json/issues"
+	},
+
+	"author": "Zelvar"
+}
